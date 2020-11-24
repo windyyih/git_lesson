@@ -5,6 +5,3 @@ y <- rnorm(500)
 
 #import feture
 
-
-#crazy idea
-#add sth here
