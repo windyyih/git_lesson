@@ -5,6 +5,6 @@ y <- rnorm(500)
 
 #import feture
 
-#new feture 
 
+#crazy idea
 #add sth here
