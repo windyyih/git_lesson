@@ -1,0 +1,21 @@
+#headline
+
+<<<<<<< HEAD
+x<- rnorm(500)
+y <- rnorm(500)
+
+#import feture
+
+#new feture 
+
+#add sth here
+=======
+x<- rnorm(200)
+y <- rnorm(300)
+
+#import feture
+
+#new feture
+
+#crazy idea
+>>>>>>> crazy_idea
